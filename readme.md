@@ -1,4 +1,4 @@
-# Osuny hugo template
+# Bordeaux Montaigne MICA
 
 Pour installer Hugo
 ```
@@ -12,7 +12,7 @@ brew upgrade hugo
 
 Pour cloner avec le thème
 ```
-git clone git@github.com:noesya/osuny-hugo-template.git --recurse-submodules
+git clone git@github.com:noesya/bordeauxmontaigne-mica.git --recurse-submodules
 ```
 Pour récupérer le thème
 ```

@@ -18,7 +18,7 @@ Pour faire la mise à jour :
 ```
 git remote add template git@github.com:noesya/osuny-hugo-template.git
 git fetch --all
-git merge template/master --allow-unrelated-histories
+git merge template/main --allow-unrelated-histories
 ```
 
 ## Theme

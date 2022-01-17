@@ -22,6 +22,7 @@ git merge template/main --allow-unrelated-histories
 ```
 
 ## Theme
+https://github.com/noesya/osuny-hugo-theme
 
 Pour cloner avec le thème
 ```

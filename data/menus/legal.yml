@@ -3,4 +3,8 @@
   target: "/politique-de-confidentialite/"
   kind: page
   children: []
+- title: Mentions légales
+  target: "/mentions-legales/"
+  kind: page
+  children: []
 

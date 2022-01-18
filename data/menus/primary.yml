@@ -18,5 +18,9 @@
 - title: Le laboratoire
   target: "/laboratoire-de-recherche-mica/"
   kind: page
-  children: []
+  children:
+  - title: Le MICA en bref
+    target: "/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/"
+    kind: page
+    children: []
 

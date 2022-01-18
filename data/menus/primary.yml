@@ -7,4 +7,8 @@
   target: "/posts/"
   kind: news
   children: []
+- title: Le laboratoire
+  target: "/laboratoire-de-recherche-mica/"
+  kind: page
+  children: []
 

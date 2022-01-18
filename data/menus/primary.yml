@@ -1,0 +1,30 @@
+---
+- title: Actualités
+  target: "/posts/"
+  kind: news
+  children:
+  - title: Projets en cours
+    target: "/projets-en-cours/"
+    kind: news_category
+    children: []
+  - title: Documentation
+    target: "/documentation/"
+    kind: news_category
+    children: []
+  - title: Projets terminés
+    target: "/projets-termines/"
+    kind: news_category
+    children: []
+- title: Le laboratoire
+  target: "/laboratoire-de-recherche-mica/"
+  kind: page
+  children:
+  - title: Le MICA en bref
+    target: "/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/"
+    kind: page
+    children: []
+  - title: Missions & objectifs
+    target: "/vie-du-labo-pour-lannee-en-cours/missions-objectifs/"
+    kind: page
+    children: []
+

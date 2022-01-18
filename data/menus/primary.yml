@@ -7,6 +7,10 @@
     target: "/projets-en-cours/"
     kind: news_category
     children: []
+  - title: Documentation
+    target: "/documentation/"
+    kind: news_category
+    children: []
 - title: Le laboratoire
   target: "/laboratoire-de-recherche-mica/"
   kind: page

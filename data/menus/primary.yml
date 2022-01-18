@@ -23,4 +23,8 @@
     target: "/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/"
     kind: page
     children: []
+  - title: Missions & objectifs
+    target: "/vie-du-labo-pour-lannee-en-cours/missions-objectifs/"
+    kind: page
+    children: []
 

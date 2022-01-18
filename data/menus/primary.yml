@@ -11,6 +11,10 @@
     target: "/documentation/"
     kind: news_category
     children: []
+  - title: Projets terminés
+    target: "/projets-termines/"
+    kind: news_category
+    children: []
 - title: Le laboratoire
   target: "/laboratoire-de-recherche-mica/"
   kind: page

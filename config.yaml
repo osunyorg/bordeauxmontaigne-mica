@@ -5,7 +5,7 @@ defaultContentLanguage: fr
 baseURL:
 languages:
   fr:
-    title: Osuny template
+    title: Laboratoire de recherche MICA
 theme: osuny-hugo-theme
 paginate: 18
 permalinks:

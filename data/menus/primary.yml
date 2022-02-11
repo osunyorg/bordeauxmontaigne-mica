@@ -1,6 +1,10 @@
 ---
+- title: Équipe
+  target: "/equipe/"
+  kind: staff
+  children: []
 - title: Actualités
-  target: "/posts/"
+  target: "/actualites/"
   kind: news
   children:
   - title: Projets en cours

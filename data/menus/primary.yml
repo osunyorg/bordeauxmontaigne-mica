@@ -1,4 +1,24 @@
 ---
+- title: Équipe
+  target: "/equipe/"
+  kind: staff
+  children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: news
+  children:
+  - title: Projets en cours
+    target: "/actualites/categories/projets-en-cours/"
+    kind: news_category
+    children: []
+  - title: Documentation
+    target: "/actualites/categories/documentation/"
+    kind: news_category
+    children: []
+  - title: Projets terminés
+    target: "/actualites/categories/projets-termines/"
+    kind: news_category
+    children: []
 - title: Le laboratoire
   target: "/laboratoire-de-recherche-mica/"
   kind: page

@@ -8,15 +8,15 @@
   kind: news
   children:
   - title: Projets en cours
-    target: "/actualites/categories/projets-en-cours/"
+    target: "/actualites/projets-en-cours/"
     kind: news_category
     children: []
   - title: Documentation
-    target: "/actualites/categories/documentation/"
+    target: "/actualites/documentation/"
     kind: news_category
     children: []
   - title: Projets terminés
-    target: "/actualites/categories/projets-termines/"
+    target: "/actualites/projets-termines/"
     kind: news_category
     children: []
 - title: Le laboratoire

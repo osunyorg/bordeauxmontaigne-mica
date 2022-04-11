@@ -1,8 +1,4 @@
 ---
-- title: Équipe
-  target: "/equipe/"
-  kind: staff
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: news

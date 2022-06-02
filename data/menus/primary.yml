@@ -1,19 +1,19 @@
 ---
 - title: Actualités
   target: "/actualites/"
-  kind: news
+  kind: posts
   children:
   - title: Projets en cours
     target: "/actualites/projets-en-cours/"
-    kind: news_category
+    kind: category
     children: []
   - title: Documentation
     target: "/actualites/documentation/"
-    kind: news_category
+    kind: category
     children: []
   - title: Projets terminés
     target: "/actualites/projets-termines/"
-    kind: news_category
+    kind: category
     children: []
 - title: Le laboratoire
   target: "/laboratoire-de-recherche-mica/"

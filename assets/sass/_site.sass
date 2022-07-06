@@ -1,0 +1,84 @@
+@font-face
+    font-display: swap
+    font-family: 'Montserrat'
+    font-style: italic
+    font-weight: 400
+    src: url('../fonts/montserrat/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0oJC8MLnbtg.woff') format('woff')
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+
+@font-face
+    font-display: swap
+    font-family: 'Montserrat'
+    font-style: normal
+    font-weight: 400
+    src: url('../fonts/montserrat/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2') format('woff2')
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+
+@font-face
+    font-display: swap
+    font-family: 'Montserrat'
+    font-style: normal
+    font-weight: 600
+    src: url('../fonts/montserrat/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2') format('woff2')
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+
+h1
+    @include media-breakpoint-down(md)
+        font-size: px2rem(28)
+h3
+    font-style: italic
+    margin-top: $grid-gutter-width
+
+
+.hero
+    > picture
+        img
+            filter: blur(16px) grayscale(100%)
+            mix-blend-mode: overlay
+
+
+.card
+    &-media
+        border: 1px solid $border-color
+    .stretched-link
+        &::after
+            transition: background .3s ease
+        &:hover
+            &::after
+                background-color: rgba(white, .2)
+
+.person
+    .name + p:not(.contact)
+        font-style: italic
+        margin-bottom: 0
+
+header[role=banner]
+    .logo img
+        height: 60px
+        width: auto
+
+
+footer[role=contentinfo]
+    .logo img
+        height: 60px
+        width: auto
+
+    .credit
+        font-size: px2rem(14)
+
+    nav
+        a
+            line-height: px2rem(22)
+        .nav-levels > li
+            & > a,
+            & > span
+                border-bottom: 1px solid $border-color
+                display: block
+                font-size: $h2-font-size
+                line-height: px2rem(36)
+                padding-bottom: px2rem(10)
+            .nav-level-2 > li
+                & > a,
+                & > span
+                    font-size: px2rem(18)
+                    line-height: px2rem(26)

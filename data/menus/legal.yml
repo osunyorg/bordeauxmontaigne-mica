@@ -1,10 +1,10 @@
 ---
 - title: Politique de confidentialité
-  target: "/politique-de-confidentialite/"
+  target: "/fr/politique-de-confidentialite/"
   kind: page
   children: []
 - title: Mentions légales
-  target: "/mentions-legales/"
+  target: "/fr/mentions-legales/"
   kind: page
   children: []
 

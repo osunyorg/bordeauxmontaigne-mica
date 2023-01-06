@@ -1,7 +1,11 @@
 ---
+- title: Équipe
+  target: "/equipe/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
-  kind: posts
+  kind: page
   children:
   - title: Projets en cours
     target: "/actualites/projets-en-cours/"

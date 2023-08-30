@@ -8,5 +8,6 @@ fr:
   permalinks:
     categories: /actualites/:slug/
     posts: /actualites/:year-:month-:day-:slug/
+    publications: /publications/:year-:slug/
     persons: /equipe/:slug/
     researchers: /equipe/:slug/publications/

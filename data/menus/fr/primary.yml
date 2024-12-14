@@ -5,6 +5,7 @@ items:
   target: "/equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/fr/persons/_index.html
 - title: Actualités
   target: "/actualites/"
@@ -14,17 +15,21 @@ items:
     target: "/actualites/projets-en-cours/"
     kind: category
     children: []
+    path: "/posts_categories/projets-en-cours"
     file: content/fr/posts_categories/projets-en-cours/_index.html
   - title: Documentation
     target: "/actualites/documentation/"
     kind: category
     children: []
+    path: "/posts_categories/documentation"
     file: content/fr/posts_categories/documentation/_index.html
   - title: Projets terminés
     target: "/actualites/projets-termines/"
     kind: category
     children: []
+    path: "/posts_categories/projets-termines"
     file: content/fr/posts_categories/projets-termines/_index.html
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Le laboratoire
   target: "/laboratoire-de-recherche-mica/"
@@ -34,11 +39,14 @@ items:
     target: "/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/"
     kind: page
     children: []
+    path: "/pages/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref"
     file: content/fr/pages/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/_index.html
   - title: Missions & objectifs
     target: "/vie-du-labo-pour-lannee-en-cours/missions-objectifs/"
     kind: page
     children: []
+    path: "/pages/vie-du-labo-pour-lannee-en-cours/missions-objectifs"
     file: content/fr/pages/vie-du-labo-pour-lannee-en-cours/missions-objectifs/_index.html
+  path: "/pages/laboratoire-de-recherche-mica"
   file: content/fr/pages/laboratoire-de-recherche-mica/_index.html
 

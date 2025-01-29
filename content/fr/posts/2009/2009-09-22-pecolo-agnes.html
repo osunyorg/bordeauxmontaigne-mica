@@ -39,17 +39,21 @@ design:
 posts_categories:
   - "membres"
   - "chercheurs/statutaires"
-free_categories:
-  - permalink: "/actualites/membres/"
-    path: "/posts_categories/membres"
-    slug: "membres"
-    file: "content/fr/posts_categories/membres/_index.html"
-    name: "Membres"
-  - permalink: "/actualites/chercheurs/statutaires/"
-    path: "/posts_categories/chercheurs/statutaires"
-    slug: "chercheurs/statutaires"
-    file: "content/fr/posts_categories/chercheurs/statutaires/_index.html"
-    name: "Statutaires"
+taxonomies:
+  - name: "Catégories"
+    slug: ""
+    categories:
+      - permalink: "/actualites/membres/"
+        path: "/posts_categories/membres"
+        slug: "membres"
+        file: "content/fr/posts_categories/membres/_index.html"
+        name: "Membres"
+      - permalink: "/actualites/chercheurs/statutaires/"
+        path: "/posts_categories/chercheurs/statutaires"
+        slug: "chercheurs/statutaires"
+        file: "content/fr/posts_categories/chercheurs/statutaires/_index.html"
+        name: "Statutaires"
+
 
 translationKey: communication-website-post-f743a6da-05b2-4df0-9d30-ce0a54e3933d
 

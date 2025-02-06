@@ -1,6 +1,3 @@
-[submodule "osuny-example"]
-	path = osuny-example
-	url = https://github.com/noesya/osuny-example
 [submodule "themes/osuny"]
 	path = themes/osuny
 	url = git@github.com:osunyorg/theme.git

@@ -72,20 +72,6 @@ section_taxonomies:
     slug: ""
     path: ""
     categories:
-      - permalink: "/actualites/chercheurs/anciens/"
-        path: "/posts_categories/chercheurs/anciens"
-        slug: "chercheurs/anciens"
-        file: "content/fr/posts_categories/chercheurs/anciens/_index.html"
-        name: >-
-          Anciens
-        count: 6
-      - permalink: "/actualites/chercheurs/associes/"
-        path: "/posts_categories/chercheurs/associes"
-        slug: "chercheurs/associes"
-        file: "content/fr/posts_categories/chercheurs/associes/_index.html"
-        name: >-
-          Associés
-        count: 91
       - permalink: "/actualites/chercheurs/"
         path: "/posts_categories/chercheurs"
         slug: "chercheurs"
@@ -93,6 +79,31 @@ section_taxonomies:
         name: >-
           Les chercheurs
         count: 161
+        children:
+          - permalink: "/actualites/chercheurs/associes/"
+            path: "/posts_categories/chercheurs/associes"
+            slug: "chercheurs/associes"
+            file: "content/fr/posts_categories/chercheurs/associes/_index.html"
+            name: >-
+              Associés
+            count: 91
+
+          - permalink: "/actualites/chercheurs/anciens/"
+            path: "/posts_categories/chercheurs/anciens"
+            slug: "chercheurs/anciens"
+            file: "content/fr/posts_categories/chercheurs/anciens/_index.html"
+            name: >-
+              Anciens
+            count: 6
+
+          - permalink: "/actualites/chercheurs/statutaires/"
+            path: "/posts_categories/chercheurs/statutaires"
+            slug: "chercheurs/statutaires"
+            file: "content/fr/posts_categories/chercheurs/statutaires/_index.html"
+            name: >-
+              Statutaires
+            count: 63
+
       - permalink: "/actualites/les-doctorants/"
         path: "/posts_categories/les-doctorants"
         slug: "les-doctorants"
@@ -121,13 +132,6 @@ section_taxonomies:
         name: >-
           Projets terminés
         count: 41
-      - permalink: "/actualites/chercheurs/statutaires/"
-        path: "/posts_categories/chercheurs/statutaires"
-        slug: "chercheurs/statutaires"
-        file: "content/fr/posts_categories/chercheurs/statutaires/_index.html"
-        name: >-
-          Statutaires
-        count: 63
 
 
 contents_reading_time:

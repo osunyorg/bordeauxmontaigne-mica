@@ -2,59 +2,80 @@
 title: Primary
 items:
 - title: Équipe
+  slug: equipe
   target: "/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children:
   - title: Projets en cours
+    slug: projets-en-cours
     target: "/actualites/projets-en-cours/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/projets-en-cours"
     file: content/fr/posts_categories/projets-en-cours/_index.html
   - title: Documentation
+    slug: documentation
     target: "/actualites/documentation/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/documentation"
     file: content/fr/posts_categories/documentation/_index.html
   - title: Projets terminés
+    slug: projets-termines
     target: "/actualites/projets-termines/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/projets-termines"
     file: content/fr/posts_categories/projets-termines/_index.html
+  descendants_targets:
+  - "/actualites/documentation/"
+  - "/actualites/projets-en-cours/"
+  - "/actualites/projets-termines/"
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Le laboratoire
+  slug: le-laboratoire
   target: "/laboratoire-de-recherche-mica/"
   kind: page
   new_tab: false
   children:
   - title: Le MICA en bref
+    slug: le-mica-en-bref
     target: "/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref"
     file: content/fr/pages/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/_index.html
   - title: Missions & objectifs
+    slug: missions-objectifs
     target: "/vie-du-labo-pour-lannee-en-cours/missions-objectifs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/vie-du-labo-pour-lannee-en-cours/missions-objectifs"
     file: content/fr/pages/vie-du-labo-pour-lannee-en-cours/missions-objectifs/_index.html
+  descendants_targets:
+  - "/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/"
+  - "/vie-du-labo-pour-lannee-en-cours/missions-objectifs/"
   path: "/pages/laboratoire-de-recherche-mica"
   file: content/fr/pages/laboratoire-de-recherche-mica/_index.html
 

@@ -2,8 +2,10 @@
 title: Social
 items:
 - title: Twitter
+  slug: twitter
   target: https://twitter.com/lelabmica
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

@@ -14,3 +14,1479 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/actualites/2014/09/09/fonds-photographiques-du-medde/index.html"
+to = "/actualites/2014-09-09-fonds-photographiques-du-medde/"
+
+[[redirects]]
+from = "/fr/actualites/chercheurs/associes/index.html"
+to = "/actualites/chercheurs/associes/"
+
+[[redirects]]
+from = "/actualites/2016/07/06/dascalakis-labreze-maria-gabriela/index.html"
+to = "/actualites/2016-07-06-dascalakis-labreze-maria-gabriela/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/valerie-carayol/index.html"
+to = "/actualites/2012-06-07-valerie-carayol/"
+
+[[redirects]]
+from = "/actualites/2019/06/25/bowman-deborah/index.html"
+to = "/actualites/2019-06-25-bowman-deborah/"
+
+[[redirects]]
+from = "/fr/theses-en-cours/index.html"
+to = "/theses-en-cours/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/multiplication-des-ecrans-images-et-postures-spectatorielles/index.html"
+to = "/actualites/2014-09-08-multiplication-des-ecrans-images-et-postures-spectatorielles/"
+
+[[redirects]]
+from = "/actualites/2016/08/24/devel-laetitia/index.html"
+to = "/actualites/2016-08-24-devel-laetitia/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/alidjinou-vodouhe-nonami-veronique/index.html"
+to = "/actualites/2018-02-08-alidjinou-vodouhe-nonami-veronique/"
+
+[[redirects]]
+from = "/actualites/2018/02/07/adam-soule-aurelie-ilimatou/index.html"
+to = "/actualites/2018-02-07-adam-soule-aurelie-ilimatou/"
+
+[[redirects]]
+from = "/actualites/2021/08/31/rethore-emilie/index.html"
+to = "/actualites/2021-08-31-rethore-emilie/"
+
+[[redirects]]
+from = "/actualites/2021/08/31/traore-kadidja/index.html"
+to = "/actualites/2021-08-31-traore-kadidja/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/kabore-wendpanga-rodrigue/index.html"
+to = "/actualites/2015-05-28-kabore-wendpanga-rodrigue/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/ferrand-mylene/index.html"
+to = "/actualites/2017-01-12-ferrand-mylene/"
+
+[[redirects]]
+from = "/actualites/2017/12/11/ciel-competences-informationnelles-des-etudiants-de-licence/index.html"
+to = "/actualites/2017-12-11-ciel-competences-informationnelles-des-etudiants-de-licence/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/lobjoit-myriam/index.html"
+to = "/actualites/2011-07-29-lobjoit-myriam/"
+
+[[redirects]]
+from = "/actualites/2021/12/03/venturi-delporte-monica/index.html"
+to = "/actualites/2021-12-03-venturi-delporte-monica/"
+
+[[redirects]]
+from = "/actualites/2013/04/22/blanc-charlotte/index.html"
+to = "/actualites/2013-04-22-blanc-charlotte/"
+
+[[redirects]]
+from = "/fr/faire-son-memoire-au-mica/index.html"
+to = "/faire-son-memoire-au-mica/"
+
+[[redirects]]
+from = "/actualites/2021/12/04/beyaert-geslin-anne/index.html"
+to = "/actualites/2021-12-04-beyaert-geslin-anne/"
+
+[[redirects]]
+from = "/actualites/2021/08/31/noukafou-komlavi-augustin/index.html"
+to = "/actualites/2021-08-31-noukafou-komlavi-augustin/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/harmand-florian/index.html"
+to = "/actualites/2017-01-12-harmand-florian/"
+
+[[redirects]]
+from = "/actualites/2015/12/10/roumanos-rayya/index.html"
+to = "/actualites/2015-12-10-roumanos-rayya/"
+
+[[redirects]]
+from = "/actualites/2019/07/02/diallo-mamadou/index.html"
+to = "/actualites/2019-07-02-diallo-mamadou/"
+
+[[redirects]]
+from = "/actualites/2021/12/09/capes-david/index.html"
+to = "/actualites/2021-12-09-capes-david/"
+
+[[redirects]]
+from = "/actualites/2019/03/31/sossou-komlanvi-etienne/index.html"
+to = "/actualites/2019-03-31-sossou-komlanvi-etienne/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/epistemologies-et-methodes-sont-partageables-par-des-acteurs-territoriaux-et-academiques/index.html"
+to = "/actualites/2014-09-09-epistemologies-et-methodes-sont-partageables-par-des-acteurs-territoriaux-et-academiques/"
+
+[[redirects]]
+from = "/actualites/2021/03/02/gramaccia-julie-a/index.html"
+to = "/actualites/2021-03-02-gramaccia-julie-a/"
+
+[[redirects]]
+from = "/actualites/2016/01/22/medianum-mediation-transmedia-et-culture-jeune-en-aquitaine/index.html"
+to = "/actualites/2016-01-22-medianum-mediation-transmedia-et-culture-jeune-en-aquitaine/"
+
+[[redirects]]
+from = "/actualites/2016/02/12/zaidi-rihab/index.html"
+to = "/actualites/2016-02-12-zaidi-rihab/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/crosse-maelle/index.html"
+to = "/actualites/2018-02-08-crosse-maelle/"
+
+[[redirects]]
+from = "/actualites/2015/05/13/belga-jihane/index.html"
+to = "/actualites/2015-05-13-belga-jihane/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/wyn-women-you-can/index.html"
+to = "/actualites/2014-09-09-wyn-women-you-can/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/fetnan-rime/index.html"
+to = "/actualites/2015-05-28-fetnan-rime/"
+
+[[redirects]]
+from = "/fr/politique-de-confidentialite/index.html"
+to = "/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/actualites/2016/04/20/pucheu-david/index.html"
+to = "/actualites/2016-04-20-pucheu-david/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/laboratoires-du-lien-social-et-politiques-de-la-solidarite-projet-d-edition-d-un-ouvrage-aux-pub/index.html"
+to = "/actualites/2014-09-09-laboratoires-du-lien-social-et-politiques-de-la-solidarite-projet-d-edition-d-un-ouvrage-aux-pub/"
+
+[[redirects]]
+from = "/actualites/2021/11/02/foussard-juliette/index.html"
+to = "/actualites/2021-11-02-foussard-juliette/"
+
+[[redirects]]
+from = "/fr/com-orga-politique-editoriale/index.html"
+to = "/com-orga-politique-editoriale/"
+
+[[redirects]]
+from = "/actualites/2018/07/05/pedelahorde-cindy/index.html"
+to = "/actualites/2018-07-05-pedelahorde-cindy/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/akam-noble/index.html"
+to = "/actualites/2011-07-29-akam-noble/"
+
+[[redirects]]
+from = "/fr/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/index.html"
+to = "/vie-du-labo-pour-lannee-en-cours/laboratoire-mica-en-bref/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/errachid-kaouthar/index.html"
+to = "/actualites/2018-02-08-errachid-kaouthar/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/pratiques-participatives-a-l-ere-numerique/index.html"
+to = "/actualites/2014-09-08-pratiques-participatives-a-l-ere-numerique/"
+
+[[redirects]]
+from = "/actualites/2019/10/15/aidoudi-lamia/index.html"
+to = "/actualites/2019-10-15-aidoudi-lamia/"
+
+[[redirects]]
+from = "/actualites/2012/02/24/bardon-marie-isabelle/index.html"
+to = "/actualites/2012-02-24-bardon-marie-isabelle/"
+
+[[redirects]]
+from = "/actualites/2020/10/27/fabre-maxime/index.html"
+to = "/actualites/2020-10-27-fabre-maxime/"
+
+[[redirects]]
+from = "/actualites/2020/12/29/lloveria-vivien/index.html"
+to = "/actualites/2020-12-29-lloveria-vivien/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/choquet-isabelle/index.html"
+to = "/actualites/2010-02-03-choquet-isabelle/"
+
+[[redirects]]
+from = "/fr/e3d/index.html"
+to = "/e3d/"
+
+[[redirects]]
+from = "/actualites/2010/09/30/jean-paul-seloudre/index.html"
+to = "/actualites/2010-09-30-jean-paul-seloudre/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/dussarps-clement/index.html"
+to = "/actualites/2010-02-03-dussarps-clement/"
+
+[[redirects]]
+from = "/actualites/2020/01/28/louvencourt-gaelle/index.html"
+to = "/actualites/2020-01-28-louvencourt-gaelle/"
+
+[[redirects]]
+from = "/actualites/2012/02/23/cheval-jj/index.html"
+to = "/actualites/2012-02-23-cheval-jj/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/bossu-adeline/index.html"
+to = "/actualites/2015-05-29-bossu-adeline/"
+
+[[redirects]]
+from = "/actualites/2011/06/29/manes-gallo-maria-caterina/index.html"
+to = "/actualites/2011-06-29-manes-gallo-maria-caterina/"
+
+[[redirects]]
+from = "/actualites/2013/03/20/liquete-vincent/index.html"
+to = "/actualites/2013-03-20-liquete-vincent/"
+
+[[redirects]]
+from = "/actualites/2014/04/24/eloria-vigouroux-zugasti/index.html"
+to = "/actualites/2014-04-24-eloria-vigouroux-zugasti/"
+
+[[redirects]]
+from = "/actualites/2017/06/01/lid/index.html"
+to = "/actualites/2017-06-01-lid/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/ebm-european-bank-of-memory/index.html"
+to = "/actualites/2014-09-09-ebm-european-bank-of-memory/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/lietart-armand/index.html"
+to = "/actualites/2010-02-03-lietart-armand/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/turet-amelie/index.html"
+to = "/actualites/2015-05-29-turet-amelie/"
+
+[[redirects]]
+from = "/actualites/2012/03/14/croce-cecile/index.html"
+to = "/actualites/2012-03-14-croce-cecile/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/argod-pascale/index.html"
+to = "/actualites/2010-02-03-argod-pascale/"
+
+[[redirects]]
+from = "/fr/politique-de-confidentialite-1/index.html"
+to = "/politique-de-confidentialite-1/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/djamalladine-djamila/index.html"
+to = "/actualites/2019-03-19-djamalladine-djamila/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/drillaud-frederique/index.html"
+to = "/actualites/2019-03-19-drillaud-frederique/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/cathedrale-numerique/index.html"
+to = "/actualites/2014-09-09-cathedrale-numerique/"
+
+[[redirects]]
+from = "/actualites/2016/04/15/bounjara-imane/index.html"
+to = "/actualites/2016-04-15-bounjara-imane/"
+
+[[redirects]]
+from = "/actualites/2013/04/22/dhennezel-claire/index.html"
+to = "/actualites/2013-04-22-dhennezel-claire/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/helene-montagnac-marie/index.html"
+to = "/actualites/2009-09-22-helene-montagnac-marie/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/herrera-nolorve-sumalavia-carmen/index.html"
+to = "/actualites/2015-05-28-herrera-nolorve-sumalavia-carmen/"
+
+[[redirects]]
+from = "/actualites/2021/12/07/douard-florian/index.html"
+to = "/actualites/2021-12-07-douard-florian/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/telephonie-mobile-et-transformation-socioeconomique-en-afrique-de-l-ouest/index.html"
+to = "/actualites/2014-09-08-telephonie-mobile-et-transformation-socioeconomique-en-afrique-de-l-ouest/"
+
+[[redirects]]
+from = "/fr/actualites/chercheurs/index.html"
+to = "/actualites/chercheurs/"
+
+[[redirects]]
+from = "/fr/com-orga-soc/index.html"
+to = "/com-orga-soc/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/l-age-des-stars-des-images-a-l-epreuve-du-vieillissement/index.html"
+to = "/actualites/2014-09-08-l-age-des-stars-des-images-a-l-epreuve-du-vieillissement/"
+
+[[redirects]]
+from = "/actualites/2019/06/25/schwartz-arnaud/index.html"
+to = "/actualites/2019-06-25-schwartz-arnaud/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/catherine-pascal/index.html"
+to = "/actualites/2009-09-22-catherine-pascal/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/l-enonciation-visuelle-la-question-des-supports-des-images/index.html"
+to = "/actualites/2014-09-09-l-enonciation-visuelle-la-question-des-supports-des-images/"
+
+[[redirects]]
+from = "/actualites/2020/11/10/moutat-audrey/index.html"
+to = "/actualites/2020-11-10-moutat-audrey/"
+
+[[redirects]]
+from = "/actualites/2012/03/15/catoir-marie-julie/index.html"
+to = "/actualites/2012-03-15-catoir-marie-julie/"
+
+[[redirects]]
+from = "/actualites/2021/12/07/caravati-germain/index.html"
+to = "/actualites/2021-12-07-caravati-germain/"
+
+[[redirects]]
+from = "/actualites/2014/04/24/huys-viviane/index.html"
+to = "/actualites/2014-04-24-huys-viviane/"
+
+[[redirects]]
+from = "/fr/vie-du-labo-pour-lannee-en-cours/rejoindre-mica/index.html"
+to = "/vie-du-labo-pour-lannee-en-cours/rejoindre-mica/"
+
+[[redirects]]
+from = "/actualites/2008/02/03/dulaurans-marlene/index.html"
+to = "/actualites/2008-02-03-dulaurans-marlene/"
+
+[[redirects]]
+from = "/actualites/2021/03/23/cendoya-lafleur-jessica/index.html"
+to = "/actualites/2021-03-23-cendoya-lafleur-jessica/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/le-design-d-information-la-datavisualisation-une-problematique-entre-semiotique-et-design/index.html"
+to = "/actualites/2014-09-09-le-design-d-information-la-datavisualisation-une-problematique-entre-semiotique-et-design/"
+
+[[redirects]]
+from = "/actualites/2021/01/05/nakhle-arze/index.html"
+to = "/actualites/2021-01-05-nakhle-arze/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/bogui-jean-jacques/index.html"
+to = "/actualites/2011-07-29-bogui-jean-jacques/"
+
+[[redirects]]
+from = "/actualites/2012/04/26/poulain-sebastien/index.html"
+to = "/actualites/2012-04-26-poulain-sebastien/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/santos-sainz-maria/index.html"
+to = "/actualites/2011-07-29-santos-sainz-maria/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/ben-henda-mokthar/index.html"
+to = "/actualites/2011-07-29-ben-henda-mokthar/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/nercam-nicolas/index.html"
+to = "/actualites/2011-07-29-nercam-nicolas/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/tic-et-ecocitoyennete/index.html"
+to = "/actualites/2014-09-09-tic-et-ecocitoyennete/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/symposium-les-20-ans-de-la-revue-communication-organisation/index.html"
+to = "/actualites/2014-09-09-symposium-les-20-ans-de-la-revue-communication-organisation/"
+
+[[redirects]]
+from = "/actualites/2016/04/20/blot-aurelie/index.html"
+to = "/actualites/2016-04-20-blot-aurelie/"
+
+[[redirects]]
+from = "/fr/these-mobilite/index.html"
+to = "/these-mobilite/"
+
+[[redirects]]
+from = "/actualites/2016/03/17/labarbe-emmanuel/index.html"
+to = "/actualites/2016-03-17-labarbe-emmanuel/"
+
+[[redirects]]
+from = "/actualites/2017/09/28/ludovic-chatenet/index.html"
+to = "/actualites/2017-09-28-ludovic-chatenet/"
+
+[[redirects]]
+from = "/actualites/2012/04/27/lagouarde-clement/index.html"
+to = "/actualites/2012-04-27-lagouarde-clement/"
+
+[[redirects]]
+from = "/fr/soutenances-annee-en-cours/index.html"
+to = "/soutenances-annee-en-cours/"
+
+[[redirects]]
+from = "/actualites/2019/06/18/onguene-essono-louis-martin/index.html"
+to = "/actualites/2019-06-18-onguene-essono-louis-martin/"
+
+[[redirects]]
+from = "/actualites/2012/02/03/cormerais-franck/index.html"
+to = "/actualites/2012-02-03-cormerais-franck/"
+
+[[redirects]]
+from = "/fr/parutions-annee-en-cours/index.html"
+to = "/parutions-annee-en-cours/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/vieira-lise/index.html"
+to = "/actualites/2012-06-07-vieira-lise/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/rouissi-soufiane/index.html"
+to = "/actualites/2011-07-29-rouissi-soufiane/"
+
+[[redirects]]
+from = "/actualites/2017/12/11/anr-hyperotlet/index.html"
+to = "/actualites/2017-12-11-anr-hyperotlet/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/laffont-julie/index.html"
+to = "/actualites/2010-02-03-laffont-julie/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/humanites-digitmaghreb/index.html"
+to = "/actualites/2014-09-09-humanites-digitmaghreb/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/mamane-sillimana/index.html"
+to = "/actualites/2015-05-28-mamane-sillimana/"
+
+[[redirects]]
+from = "/fr/actualites/projets-en-cours/index.html"
+to = "/actualites/projets-en-cours/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/denise-florian/index.html"
+to = "/actualites/2019-03-19-denise-florian/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/azzi-dany/index.html"
+to = "/actualites/2018-02-08-azzi-dany/"
+
+[[redirects]]
+from = "/publications/2020-de-l-imprime-au-numerique-et-retour-lecture-et-perception-d-une-bande-dessinee-d-un-support-a-l-autre/index.html"
+to = "/publications/2020-de-l-imprime-au-numerique-et-retour-lecture-et-perception-d-une-bande-dessinee-d-un-support-a-l-autr/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/tapsoba-alimata-elodie/index.html"
+to = "/actualites/2019-03-19-tapsoba-alimata-elodie/"
+
+[[redirects]]
+from = "/actualites/2016/04/15/amessinou-kossi/index.html"
+to = "/actualites/2016-04-15-amessinou-kossi/"
+
+[[redirects]]
+from = "/actualites/2019/06/25/beaujardin-didier/index.html"
+to = "/actualites/2019-06-25-beaujardin-didier/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/tchikaha-nya-lucrece-julie/index.html"
+to = "/actualites/2018-02-08-tchikaha-nya-lucrece-julie/"
+
+[[redirects]]
+from = "/fr/com-orga-contribuer/index.html"
+to = "/com-orga-contribuer/"
+
+[[redirects]]
+from = "/actualites/2019/07/02/lehmans-anne/index.html"
+to = "/actualites/2019-07-02-lehmans-anne/"
+
+[[redirects]]
+from = "/actualites/2012/03/08/destal-corinne/index.html"
+to = "/actualites/2012-03-08-destal-corinne/"
+
+[[redirects]]
+from = "/fr/trouver-un-financement-a-votre-these/index.html"
+to = "/trouver-un-financement-a-votre-these/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/yonnet-aurore/index.html"
+to = "/actualites/2017-01-12-yonnet-aurore/"
+
+[[redirects]]
+from = "/actualites/2019/07/02/de-plaen-gaetan/index.html"
+to = "/actualites/2019-07-02-de-plaen-gaetan/"
+
+[[redirects]]
+from = "/fr/actualites/les-doctorants/index.html"
+to = "/actualites/les-doctorants/"
+
+[[redirects]]
+from = "/actualites/2020/12/01/konnecke-maylis/index.html"
+to = "/actualites/2020-12-01-konnecke-maylis/"
+
+[[redirects]]
+from = "/actualites/2014/05/07/goulinet-fite-geraldine/index.html"
+to = "/actualites/2014-05-07-goulinet-fite-geraldine/"
+
+[[redirects]]
+from = "/actualites/2020/01/28/kang-juhyeong/index.html"
+to = "/actualites/2020-01-28-kang-juhyeong/"
+
+[[redirects]]
+from = "/actualites/2019/09/03/desjardins-marie-laure/index.html"
+to = "/actualites/2019-09-03-desjardins-marie-laure/"
+
+[[redirects]]
+from = "/actualites/2010/10/08/anne-lubnau/index.html"
+to = "/actualites/2010-10-08-anne-lubnau/"
+
+[[redirects]]
+from = "/actualites/2016/02/05/alexander-andrea/index.html"
+to = "/actualites/2016-02-05-alexander-andrea/"
+
+[[redirects]]
+from = "/actualites/2016/04/15/romanou-maria/index.html"
+to = "/actualites/2016-04-15-romanou-maria/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/vanderlinden-eloise/index.html"
+to = "/actualites/2017-01-12-vanderlinden-eloise/"
+
+[[redirects]]
+from = "/fr/appels-a-com-annee-en-cours/index.html"
+to = "/appels-a-com-annee-en-cours/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/damome-etienne/index.html"
+to = "/actualites/2011-07-29-damome-etienne/"
+
+[[redirects]]
+from = "/actualites/2016/04/29/barbet-francois/index.html"
+to = "/actualites/2016-04-29-barbet-francois/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/role-des-tic-dans-l-engagement-citoyen/index.html"
+to = "/actualites/2014-09-09-role-des-tic-dans-l-engagement-citoyen/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/abdoulaye-seyni-ibrahim/index.html"
+to = "/actualites/2019-03-19-abdoulaye-seyni-ibrahim/"
+
+[[redirects]]
+from = "/actualites/2019/04/02/hermand-marie-helene/index.html"
+to = "/actualites/2019-04-02-hermand-marie-helene/"
+
+[[redirects]]
+from = "/actualites/2012/05/03/lux-julie/index.html"
+to = "/actualites/2012-05-03-lux-julie/"
+
+[[redirects]]
+from = "/actualites/2013/04/23/follot-murielle/index.html"
+to = "/actualites/2013-04-23-follot-murielle/"
+
+[[redirects]]
+from = "/actualites/2016/07/06/laplantine-francois/index.html"
+to = "/actualites/2016-07-06-laplantine-francois/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/mazurier-valentine/index.html"
+to = "/actualites/2015-05-29-mazurier-valentine/"
+
+[[redirects]]
+from = "/actualites/2011/07/20/melanie-bourdaa/index.html"
+to = "/actualites/2011-07-20-melanie-bourdaa/"
+
+[[redirects]]
+from = "/actualites/2019/04/09/deramchi-jeremy/index.html"
+to = "/actualites/2019-04-09-deramchi-jeremy/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/shujaa-lamiss/index.html"
+to = "/actualites/2015-05-28-shujaa-lamiss/"
+
+[[redirects]]
+from = "/fr/index.html"
+to = "/"
+
+[[redirects]]
+from = "/actualites/2016/04/29/bourchemin-barbara/index.html"
+to = "/actualites/2016-04-29-bourchemin-barbara/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/mocquet-bertrand/index.html"
+to = "/actualites/2015-05-29-mocquet-bertrand/"
+
+[[redirects]]
+from = "/actualites/2021/01/20/arnaud-alice/index.html"
+to = "/actualites/2021-01-20-arnaud-alice/"
+
+[[redirects]]
+from = "/actualites/2012/06/17/elizabeth-gardere/index.html"
+to = "/actualites/2012-06-17-elizabeth-gardere/"
+
+[[redirects]]
+from = "/actualites/2016/04/20/bara-liliane/index.html"
+to = "/actualites/2016-04-20-bara-liliane/"
+
+[[redirects]]
+from = "/actualites/2019/04/02/mignot-marie-pascale/index.html"
+to = "/actualites/2019-04-02-mignot-marie-pascale/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/le-role-des-tic-dans-le-design-des-processus-informationnels/index.html"
+to = "/actualites/2014-09-09-le-role-des-tic-dans-le-design-des-processus-informationnels/"
+
+[[redirects]]
+from = "/actualites/2021/12/14/moreau-marine/index.html"
+to = "/actualites/2021-12-14-moreau-marine/"
+
+[[redirects]]
+from = "/actualites/2020/01/31/pottier-lisa/index.html"
+to = "/actualites/2020-01-31-pottier-lisa/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/analyse-du-corpus-du-concours-photographique-national-mon-paysage-au-quotidien/index.html"
+to = "/actualites/2014-09-08-analyse-du-corpus-du-concours-photographique-national-mon-paysage-au-quotidien/"
+
+[[redirects]]
+from = "/actualites/2021/12/09/cybernetic/index.html"
+to = "/actualites/2021-12-09-cybernetic/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/pinede-nathalie/index.html"
+to = "/actualites/2011-07-29-pinede-nathalie/"
+
+[[redirects]]
+from = "/fr/financement-pendant-these/index.html"
+to = "/financement-pendant-these/"
+
+[[redirects]]
+from = "/publications/2018-traduire-la-ville-ephemere-en-graphes-dynamiques-un-outil-pour-simuler-la-mobilite-parisienne-des-usagers-de-twitter/index.html"
+to = "/publications/2018-traduire-la-ville-ephemere-en-graphes-dynamiques-un-outil-pour-simuler-la-mobilite-parisienne-des-us/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/ouedraogo-aminata/index.html"
+to = "/actualites/2019-03-19-ouedraogo-aminata/"
+
+[[redirects]]
+from = "/fr/mentions-legales/index.html"
+to = "/mentions-legales/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/pratiques-participatives-a-l-ere-du-numerique/index.html"
+to = "/actualites/2014-09-09-pratiques-participatives-a-l-ere-du-numerique/"
+
+[[redirects]]
+from = "/actualites/2022/01/14/moussavou-ndjimbit-olivier-ange-yannick/index.html"
+to = "/actualites/2022-01-14-moussavou-ndjimbit-olivier-ange-yannick/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/jiji-fatiha/index.html"
+to = "/actualites/2018-02-08-jiji-fatiha/"
+
+[[redirects]]
+from = "/publications/2014-la-bande-dessinee-entre-dessin-de-presse-et-culture-enfantine-relecture-de-l-oeuvre-d-alain-saint-ogan-1895-1974/index.html"
+to = "/publications/2014-la-bande-dessinee-entre-dessin-de-presse-et-culture-enfantine-relecture-de-l-oeuvre-d-alain-saint-og/"
+
+[[redirects]]
+from = "/actualites/2011/11/10/sandra-lemeilleur/index.html"
+to = "/actualites/2011-11-10-sandra-lemeilleur/"
+
+[[redirects]]
+from = "/actualites/2013/04/22/nicolza-joseline/index.html"
+to = "/actualites/2013-04-22-nicolza-joseline/"
+
+[[redirects]]
+from = "/actualites/2015/05/13/dupont-jerome/index.html"
+to = "/actualites/2015-05-13-dupont-jerome/"
+
+[[redirects]]
+from = "/fr/theses-soutenues/index.html"
+to = "/theses-soutenues/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/rigoni-isabelle/index.html"
+to = "/actualites/2011-07-29-rigoni-isabelle/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/lebrun-fabien/index.html"
+to = "/actualites/2018-02-08-lebrun-fabien/"
+
+[[redirects]]
+from = "/actualites/2020/10/20/badulescu-cristina/index.html"
+to = "/actualites/2020-10-20-badulescu-cristina/"
+
+[[redirects]]
+from = "/actualites/2018/02/07/kaninda-tshitwala-lynda/index.html"
+to = "/actualites/2018-02-07-kaninda-tshitwala-lynda/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/prevost-bertrand/index.html"
+to = "/actualites/2011-07-29-prevost-bertrand/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/ndiaye-adama/index.html"
+to = "/actualites/2010-02-03-ndiaye-adama/"
+
+[[redirects]]
+from = "/fr/vie-du-labo-pour-lannee-en-cours/index.html"
+to = "/vie-du-labo-pour-lannee-en-cours/"
+
+[[redirects]]
+from = "/actualites/2012/08/30/carrie-jerome/index.html"
+to = "/actualites/2012-08-30-carrie-jerome/"
+
+[[redirects]]
+from = "/actualites/2019/06/18/pare-cyriaque/index.html"
+to = "/actualites/2019-06-18-pare-cyriaque/"
+
+[[redirects]]
+from = "/actualites/2018/02/05/de-bideran-jessica/index.html"
+to = "/actualites/2018-02-05-de-bideran-jessica/"
+
+[[redirects]]
+from = "/fr/actualites/recensions/index.html"
+to = "/actualites/recensions/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/saligaud-olivier/index.html"
+to = "/actualites/2017-01-12-saligaud-olivier/"
+
+[[redirects]]
+from = "/actualites/2013/04/23/canas-anne-cecile/index.html"
+to = "/actualites/2013-04-23-canas-anne-cecile/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/ustichenko-ekaterina/index.html"
+to = "/actualites/2017-01-12-ustichenko-ekaterina/"
+
+[[redirects]]
+from = "/fr/financement/index.html"
+to = "/financement/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/lafargue-bernard/index.html"
+to = "/actualites/2012-06-07-lafargue-bernard/"
+
+[[redirects]]
+from = "/actualites/2019/05/28/catherine-lajus/index.html"
+to = "/actualites/2019-05-28-catherine-lajus/"
+
+[[redirects]]
+from = "/fr/actualites/actualites/index.html"
+to = "/actualites/actualites/"
+
+[[redirects]]
+from = "/fr/art-sceno-design/index.html"
+to = "/art-sceno-design/"
+
+[[redirects]]
+from = "/actualites/2012/06/21/versel-martine/index.html"
+to = "/actualites/2012-06-21-versel-martine/"
+
+[[redirects]]
+from = "/fr/accessibilite/index.html"
+to = "/accessibilite/"
+
+[[redirects]]
+from = "/actualites/2019/04/02/neman-belbaraka-myriam/index.html"
+to = "/actualites/2019-04-02-neman-belbaraka-myriam/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/marty-patrik/index.html"
+to = "/actualites/2010-02-03-marty-patrik/"
+
+[[redirects]]
+from = "/actualites/2016/07/06/chene-aurelie/index.html"
+to = "/actualites/2016-07-06-chene-aurelie/"
+
+[[redirects]]
+from = "/actualites/2010/10/14/norbert-ouendji/index.html"
+to = "/actualites/2010-10-14-norbert-ouendji/"
+
+[[redirects]]
+from = "/actualites/2016/04/15/albenga-viviane/index.html"
+to = "/actualites/2016-04-15-albenga-viviane/"
+
+[[redirects]]
+from = "/actualites/2016/04/14/congy-antonin/index.html"
+to = "/actualites/2016-04-14-congy-antonin/"
+
+[[redirects]]
+from = "/actualites/2021/12/07/noel-nicolas/index.html"
+to = "/actualites/2021-12-07-noel-nicolas/"
+
+[[redirects]]
+from = "/actualites/2020/09/16/coulibaly-mohamed/index.html"
+to = "/actualites/2020-09-16-coulibaly-mohamed/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/civilinum/index.html"
+to = "/actualites/2017-01-12-civilinum/"
+
+[[redirects]]
+from = "/actualites/2016/04/15/fagade-carole/index.html"
+to = "/actualites/2016-04-15-fagade-carole/"
+
+[[redirects]]
+from = "/actualites/2019/03/31/dusseaut-fatma/index.html"
+to = "/actualites/2019-03-31-dusseaut-fatma/"
+
+[[redirects]]
+from = "/actualites/2012/01/14/baudry-patrick/index.html"
+to = "/actualites/2012-01-14-baudry-patrick/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/perret-arthur/index.html"
+to = "/actualites/2018-02-08-perret-arthur/"
+
+[[redirects]]
+from = "/actualites/2012/04/26/corbal-caroline6/index.html"
+to = "/actualites/2012-04-26-corbal-caroline6/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/normes-communiquees-normes-communicantes-assignations-deviances-et-negociation/index.html"
+to = "/actualites/2014-09-09-normes-communiquees-normes-communicantes-assignations-deviances-et-negociation/"
+
+[[redirects]]
+from = "/fr/evenements-archives/index.html"
+to = "/evenements-archives/"
+
+[[redirects]]
+from = "/fr/revue-figures-de-l-art/index.html"
+to = "/revue-figures-de-l-art/"
+
+[[redirects]]
+from = "/actualites/2019/03/31/chateau-canguilhem-johann/index.html"
+to = "/actualites/2019-03-31-chateau-canguilhem-johann/"
+
+[[redirects]]
+from = "/fr/actualites/non-classe/index.html"
+to = "/actualites/non-classe/"
+
+[[redirects]]
+from = "/actualites/2021/12/07/layouni-hiba/index.html"
+to = "/actualites/2021-12-07-layouni-hiba/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/critique-de-la-precarite-et-politique-de-la-solidarite-laboratoires-du-lien-social/index.html"
+to = "/actualites/2014-09-09-critique-de-la-precarite-et-politique-de-la-solidarite-laboratoires-du-lien-social/"
+
+[[redirects]]
+from = "/publications/2020-objets-connectes-et-mobilite-urbaine-visualiser-les-deplacements-des-usagers-de-twitter-avec-des-graphes-dynamiques/index.html"
+to = "/publications/2020-objets-connectes-et-mobilite-urbaine-visualiser-les-deplacements-des-usagers-de-twitter-avec-des-gra/"
+
+[[redirects]]
+from = "/fr/medias/index.html"
+to = "/medias/"
+
+[[redirects]]
+from = "/actualites/2011/07/20/beatrice-vacher/index.html"
+to = "/actualites/2011-07-20-beatrice-vacher/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/sagot-stephanie/index.html"
+to = "/actualites/2011-07-29-sagot-stephanie/"
+
+[[redirects]]
+from = "/actualites/2020/09/16/capelle-camille/index.html"
+to = "/actualites/2020-09-16-capelle-camille/"
+
+[[redirects]]
+from = "/fr/votre-formation-doctorale-mica/index.html"
+to = "/votre-formation-doctorale-mica/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/metamorphoses-des-ecrans-de-leur-multiplication-a-leur-dissolution/index.html"
+to = "/actualites/2014-09-09-metamorphoses-des-ecrans-de-leur-multiplication-a-leur-dissolution/"
+
+[[redirects]]
+from = "/actualites/2020/09/16/fakhreddine-alexandre/index.html"
+to = "/actualites/2020-09-16-fakhreddine-alexandre/"
+
+[[redirects]]
+from = "/fr/actualites/chercheurs/statutaires/index.html"
+to = "/actualites/chercheurs/statutaires/"
+
+[[redirects]]
+from = "/actualites/2013/03/14/cholet-celine/index.html"
+to = "/actualites/2013-03-14-cholet-celine/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/mons-alain/index.html"
+to = "/actualites/2012-06-07-mons-alain/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/liloul-amal/index.html"
+to = "/actualites/2019-03-19-liloul-amal/"
+
+[[redirects]]
+from = "/fr/association-replic/index.html"
+to = "/association-replic/"
+
+[[redirects]]
+from = "/actualites/2021/01/12/graff-city/index.html"
+to = "/actualites/2021-01-12-graff-city/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/strategies-de-la-convergence-a-l-ere-du-numerique/index.html"
+to = "/actualites/2014-09-08-strategies-de-la-convergence-a-l-ere-du-numerique/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/schott-seraudie-annick/index.html"
+to = "/actualites/2009-09-22-schott-seraudie-annick/"
+
+[[redirects]]
+from = "/actualites/2012/04/23/lenoble-bart-annie/index.html"
+to = "/actualites/2012-04-23-lenoble-bart-annie/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/schmidt-blandine/index.html"
+to = "/actualites/2010-02-03-schmidt-blandine/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/atallah-bidart-sawsan-ghazi/index.html"
+to = "/actualites/2015-05-29-atallah-bidart-sawsan-ghazi/"
+
+[[redirects]]
+from = "/fr/les-carnets-de-recherches/index.html"
+to = "/les-carnets-de-recherches/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/raudin-recherches-aquitaines-sur-les-usages-pour-le-developpement-des-dispositifs-numeriques/index.html"
+to = "/actualites/2014-09-09-raudin-recherches-aquitaines-sur-les-usages-pour-le-developpement-des-dispositifs-numeriques/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/okala-francoise/index.html"
+to = "/actualites/2015-05-28-okala-francoise/"
+
+[[redirects]]
+from = "/fr/manifestations-annee-en-cours/index.html"
+to = "/manifestations-annee-en-cours/"
+
+[[redirects]]
+from = "/actualites/2012/04/26/mauvoisin-melanie7/index.html"
+to = "/actualites/2012-04-26-mauvoisin-melanie7/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/lechenaut-emilie/index.html"
+to = "/actualites/2010-02-03-lechenaut-emilie/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/gokana-cedric/index.html"
+to = "/actualites/2017-01-12-gokana-cedric/"
+
+[[redirects]]
+from = "/fr/com-orga-contacts/index.html"
+to = "/com-orga-contacts/"
+
+[[redirects]]
+from = "/actualites/2019/12/15/blin-myriam-odile/index.html"
+to = "/actualites/2019-12-15-blin-myriam-odile/"
+
+[[redirects]]
+from = "/actualites/2012/03/20/kiyindou-alain/index.html"
+to = "/actualites/2012-03-20-kiyindou-alain/"
+
+[[redirects]]
+from = "/actualites/2020/01/31/ubic-universite-bordeaux-inter-culture/index.html"
+to = "/actualites/2020-01-31-ubic-universite-bordeaux-inter-culture/"
+
+[[redirects]]
+from = "/actualites/2019/12/17/anselme-julien-2/index.html"
+to = "/actualites/2019-12-17-anselme-julien-2/"
+
+[[redirects]]
+from = "/actualites/2012/05/25/boudokhane-lima-feirouz/index.html"
+to = "/actualites/2012-05-25-boudokhane-lima-feirouz/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/repaires-bdd-sur-l-insertion-professionnelle-en-europe/index.html"
+to = "/actualites/2014-09-09-repaires-bdd-sur-l-insertion-professionnelle-en-europe/"
+
+[[redirects]]
+from = "/actualites/2019/06/25/correa-patrice/index.html"
+to = "/actualites/2019-06-25-correa-patrice/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/journee-dh-transformation-des-savoirs-et-des-competences/index.html"
+to = "/actualites/2014-09-09-journee-dh-transformation-des-savoirs-et-des-competences/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/helene-crombet/index.html"
+to = "/actualites/2012-06-07-helene-crombet/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/ngembi-ngembi-daman/index.html"
+to = "/actualites/2017-01-12-ngembi-ngembi-daman/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/cinemas-et-cinephilies-populaires-en-france-1945-1958/index.html"
+to = "/actualites/2014-09-08-cinemas-et-cinephilies-populaires-en-france-1945-1958/"
+
+[[redirects]]
+from = "/actualites/2011/03/20/stephanie-cardoso/index.html"
+to = "/actualites/2011-03-20-stephanie-cardoso/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/lacombe-eric/index.html"
+to = "/actualites/2018-02-08-lacombe-eric/"
+
+[[redirects]]
+from = "/actualites/2012/05/04/lipani-vaissade-marie-christine/index.html"
+to = "/actualites/2012-05-04-lipani-vaissade-marie-christine/"
+
+[[redirects]]
+from = "/fr/actualites/chercheurs/anciens/index.html"
+to = "/actualites/chercheurs/anciens/"
+
+[[redirects]]
+from = "/fr/logo/index.html"
+to = "/logo/"
+
+[[redirects]]
+from = "/fr/actualites/index.html"
+to = "/actualites/"
+
+[[redirects]]
+from = "/actualites/2014/12/18/citoyennete-en-couleurs-2/index.html"
+to = "/actualites/2014-12-18-citoyennete-en-couleurs-2/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/memoire-transdisciplinarite-et-savoir-partage-histocom-20-la-communication-au-20e-siecle/index.html"
+to = "/actualites/2014-09-09-memoire-transdisciplinarite-et-savoir-partage-histocom-20-la-communication-au-20e-siecle/"
+
+[[redirects]]
+from = "/actualites/2020/01/28/monnier-amelie/index.html"
+to = "/actualites/2020-01-28-monnier-amelie/"
+
+[[redirects]]
+from = "/fr/faire-un-don-au-mica/index.html"
+to = "/faire-un-don-au-mica/"
+
+[[redirects]]
+from = "/actualites/2019/07/02/lodombe-olga/index.html"
+to = "/actualites/2019-07-02-lodombe-olga/"
+
+[[redirects]]
+from = "/actualites/2012/03/14/bouldoires-alain/index.html"
+to = "/actualites/2012-03-14-bouldoires-alain/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/turki-ramzi/index.html"
+to = "/actualites/2010-02-03-turki-ramzi/"
+
+[[redirects]]
+from = "/actualites/2015/11/12/my-web-intelligence/index.html"
+to = "/actualites/2015-11-12-my-web-intelligence/"
+
+[[redirects]]
+from = "/actualites/2018/02/08/sea-nadege-dessia/index.html"
+to = "/actualites/2018-02-08-sea-nadege-dessia/"
+
+[[redirects]]
+from = "/actualites/2019/04/16/saliba-chimene/index.html"
+to = "/actualites/2019-04-16-saliba-chimene/"
+
+[[redirects]]
+from = "/actualites/2013/04/23/brunel-de-montmejan-thomas/index.html"
+to = "/actualites/2013-04-23-brunel-de-montmejan-thomas/"
+
+[[redirects]]
+from = "/actualites/2019/06/25/yao-dan/index.html"
+to = "/actualites/2019-06-25-yao-dan/"
+
+[[redirects]]
+from = "/fr/info-com/index.html"
+to = "/info-com/"
+
+[[redirects]]
+from = "/actualites/2012/06/13/nadege-soubiale/index.html"
+to = "/actualites/2012-06-13-nadege-soubiale/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/humanites-digitales/index.html"
+to = "/actualites/2014-09-09-humanites-digitales/"
+
+[[redirects]]
+from = "/fr/actualites/documentation/index.html"
+to = "/actualites/documentation/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/ricsa-risque-informationnel-chez-les-seniors-et-automedication/index.html"
+to = "/actualites/2015-05-29-ricsa-risque-informationnel-chez-les-seniors-et-automedication/"
+
+[[redirects]]
+from = "/actualites/2016/11/29/acorsens-anonymisation-corpus-sensibles/index.html"
+to = "/actualites/2016-11-29-acorsens-anonymisation-corpus-sensibles/"
+
+[[redirects]]
+from = "/actualites/2019/10/29/tardieu-oumou-salam/index.html"
+to = "/actualites/2019-10-29-tardieu-oumou-salam/"
+
+[[redirects]]
+from = "/actualites/2014/04/24/de-thoury-corinne/index.html"
+to = "/actualites/2014-04-24-de-thoury-corinne/"
+
+[[redirects]]
+from = "/fr/vie-du-labo-pour-lannee-en-cours/missions-objectifs/index.html"
+to = "/vie-du-labo-pour-lannee-en-cours/missions-objectifs/"
+
+[[redirects]]
+from = "/actualites/2012/08/30/pauvert-dominique/index.html"
+to = "/actualites/2012-08-30-pauvert-dominique/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/strategie-d-organisation-et-redefinition-des-savoirs-dans-les-universites-en-environnement-numerique/index.html"
+to = "/actualites/2014-09-09-strategie-d-organisation-et-redefinition-des-savoirs-dans-les-universites-en-environnement-numerique/"
+
+[[redirects]]
+from = "/fr/evenements-archives/categories/index.html"
+to = "/evenements-archives/categories/"
+
+[[redirects]]
+from = "/actualites/2014/11/05/frau-meigs-divina/index.html"
+to = "/actualites/2014-11-05-frau-meigs-divina/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/kamoun-emma/index.html"
+to = "/actualites/2015-05-28-kamoun-emma/"
+
+[[redirects]]
+from = "/actualites/2013/04/23/ain-alexandra/index.html"
+to = "/actualites/2013-04-23-ain-alexandra/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/nicole-denoit/index.html"
+to = "/actualites/2012-06-07-nicole-denoit/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/fereira-maciel-marilla/index.html"
+to = "/actualites/2017-01-12-fereira-maciel-marilla/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/pishtari-gerti/index.html"
+to = "/actualites/2017-01-12-pishtari-gerti/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/hubic-humanites-digitales-et-bibliotheques-des-competences-a-identifier/index.html"
+to = "/actualites/2014-09-09-hubic-humanites-digitales-et-bibliotheques-des-competences-a-identifier/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/gramaccia-gino/index.html"
+to = "/actualites/2012-06-07-gramaccia-gino/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/aurelie-laborde/index.html"
+to = "/actualites/2009-09-22-aurelie-laborde/"
+
+[[redirects]]
+from = "/fr/faire-these-comment-proceder/index.html"
+to = "/faire-these-comment-proceder/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/cousserand-isabelle/index.html"
+to = "/actualites/2009-09-22-cousserand-isabelle/"
+
+[[redirects]]
+from = "/actualites/2016/04/20/razanakolona-livaniaina/index.html"
+to = "/actualites/2016-04-20-razanakolona-livaniaina/"
+
+[[redirects]]
+from = "/actualites/2016/04/20/lavarec-lionel/index.html"
+to = "/actualites/2016-04-20-lavarec-lionel/"
+
+[[redirects]]
+from = "/actualites/2012/09/21/biscarrat-laetitia11/index.html"
+to = "/actualites/2012-09-21-biscarrat-laetitia11/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/pecolo-agnes/index.html"
+to = "/actualites/2009-09-22-pecolo-agnes/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/pratiques-de-la-deconnexion/index.html"
+to = "/actualites/2014-09-09-pratiques-de-la-deconnexion/"
+
+[[redirects]]
+from = "/actualites/2018/02/07/ekambo-noto-ben/index.html"
+to = "/actualites/2018-02-07-ekambo-noto-ben/"
+
+[[redirects]]
+from = "/actualites/2021/03/02/martinez-aurelie/index.html"
+to = "/actualites/2021-03-02-martinez-aurelie/"
+
+[[redirects]]
+from = "/publications/2013-le-role-de-la-culture-enfantine-dans-l-introduction-de-la-bande-dessinee-dans-la-presse-quotidienne-francaise-de-l-entre-deux-guerres/index.html"
+to = "/publications/2013-le-role-de-la-culture-enfantine-dans-l-introduction-de-la-bande-dessinee-dans-la-presse-quotidienne/"
+
+[[redirects]]
+from = "/actualites/2019/04/16/colombo-fabien/index.html"
+to = "/actualites/2019-04-16-colombo-fabien/"
+
+[[redirects]]
+from = "/actualites/2011/10/22/bahuaud-myriam/index.html"
+to = "/actualites/2011-10-22-bahuaud-myriam/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/gramaccia-julie/index.html"
+to = "/actualites/2015-05-28-gramaccia-julie/"
+
+[[redirects]]
+from = "/fr/vie-du-labo-pour-lannee-en-cours/organigramme-mica/index.html"
+to = "/vie-du-labo-pour-lannee-en-cours/organigramme-mica/"
+
+[[redirects]]
+from = "/actualites/2021/11/16/blanchard-benoist/index.html"
+to = "/actualites/2021-11-16-blanchard-benoist/"
+
+[[redirects]]
+from = "/actualites/2010/02/03/camin-jean-michel/index.html"
+to = "/actualites/2010-02-03-camin-jean-michel/"
+
+[[redirects]]
+from = "/actualites/2017/12/11/idex-art-et-sciences/index.html"
+to = "/actualites/2017-12-11-idex-art-et-sciences/"
+
+[[redirects]]
+from = "/fr/laboratoire-de-recherche-mica/index.html"
+to = "/laboratoire-de-recherche-mica/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/michet-florence/index.html"
+to = "/actualites/2015-05-29-michet-florence/"
+
+[[redirects]]
+from = "/actualites/2012/07/24/vacaflor-nayra/index.html"
+to = "/actualites/2012-07-24-vacaflor-nayra/"
+
+[[redirects]]
+from = "/fr/chercheurs-et-doctorants-du-mica/index.html"
+to = "/chercheurs-et-doctorants-du-mica/"
+
+[[redirects]]
+from = "/actualites/2011/09/28/yao-namoin3/index.html"
+to = "/actualites/2011-09-28-yao-namoin3/"
+
+[[redirects]]
+from = "/publications/2014-l-affrontement-des-traditions-de-la-science-fiction-pour-enfants-dans-la-bande-dessinee-francaise-de-l-apres-guerre/index.html"
+to = "/publications/2014-l-affrontement-des-traditions-de-la-science-fiction-pour-enfants-dans-la-bande-dessinee-francaise-de/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/amar-lakel/index.html"
+to = "/actualites/2009-09-22-amar-lakel/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/lancien-thierry/index.html"
+to = "/actualites/2011-07-29-lancien-thierry/"
+
+[[redirects]]
+from = "/actualites/2016/04/20/dupre-delphine/index.html"
+to = "/actualites/2016-04-20-dupre-delphine/"
+
+[[redirects]]
+from = "/actualites/2012/08/30/ndiaye-mamadou/index.html"
+to = "/actualites/2012-08-30-ndiaye-mamadou/"
+
+[[redirects]]
+from = "/fr/com-orga-comite-de-lecture/index.html"
+to = "/com-orga-comite-de-lecture/"
+
+[[redirects]]
+from = "/actualites/2011/07/29/tietse-samuel/index.html"
+to = "/actualites/2011-07-29-tietse-samuel/"
+
+[[redirects]]
+from = "/actualites/2009/09/22/florence-henon/index.html"
+to = "/actualites/2009-09-22-florence-henon/"
+
+[[redirects]]
+from = "/actualites/2011/11/25/pascale-vergely/index.html"
+to = "/actualites/2011-11-25-pascale-vergely/"
+
+[[redirects]]
+from = "/fr/experience-du-contemporain/index.html"
+to = "/experience-du-contemporain/"
+
+[[redirects]]
+from = "/actualites/2014/09/08/etat-de-la-francophonie-numerique/index.html"
+to = "/actualites/2014-09-08-etat-de-la-francophonie-numerique/"
+
+[[redirects]]
+from = "/fr/actualites/membres/index.html"
+to = "/actualites/membres/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/pocean-andrada-doriana/index.html"
+to = "/actualites/2015-05-29-pocean-andrada-doriana/"
+
+[[redirects]]
+from = "/actualites/2011/07/13/andre-vitalis/index.html"
+to = "/actualites/2011-07-13-andre-vitalis/"
+
+[[redirects]]
+from = "/fr/mentions-legales-1/index.html"
+to = "/mentions-legales-1/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/boucherifi-alexandra/index.html"
+to = "/actualites/2019-03-19-boucherifi-alexandra/"
+
+[[redirects]]
+from = "/actualites/2012/07/18/le-deuff-olivier/index.html"
+to = "/actualites/2012-07-18-le-deuff-olivier/"
+
+[[redirects]]
+from = "/fr/com-orga-direction-de-la-revue/index.html"
+to = "/com-orga-direction-de-la-revue/"
+
+[[redirects]]
+from = "/actualites/2014/04/24/metaux-sandra/index.html"
+to = "/actualites/2014-04-24-metaux-sandra/"
+
+[[redirects]]
+from = "/actualites/2018/07/30/blanchon-karine/index.html"
+to = "/actualites/2018-07-30-blanchon-karine/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/diakhate-diarra/index.html"
+to = "/actualites/2015-05-29-diakhate-diarra/"
+
+[[redirects]]
+from = "/actualites/2015/05/06/escadafal-alain/index.html"
+to = "/actualites/2015-05-06-escadafal-alain/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/entraygues-adeline/index.html"
+to = "/actualites/2015-05-29-entraygues-adeline/"
+
+[[redirects]]
+from = "/actualites/2018/02/05/borel-clement/index.html"
+to = "/actualites/2018-02-05-borel-clement/"
+
+[[redirects]]
+from = "/fr/formations-doctorants-liens-utiles/index.html"
+to = "/formations-doctorants-liens-utiles/"
+
+[[redirects]]
+from = "/actualites/2015/05/28/cotton-sploelders-anne-marie/index.html"
+to = "/actualites/2015-05-28-cotton-sploelders-anne-marie/"
+
+[[redirects]]
+from = "/actualites/2017/04/18/semdi/index.html"
+to = "/actualites/2017-04-18-semdi/"
+
+[[redirects]]
+from = "/actualites/2020/01/31/cabrol-pierre/index.html"
+to = "/actualites/2020-01-31-cabrol-pierre/"
+
+[[redirects]]
+from = "/fr/directeurs-de-recherche/index.html"
+to = "/directeurs-de-recherche/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/le-bel-blondeau-berangere/index.html"
+to = "/actualites/2015-05-29-le-bel-blondeau-berangere/"
+
+[[redirects]]
+from = "/publications/2014-heros-traditionnels-et-heros-du-progres-chronique-d-une-cohabitation-intermediatique-dans-l-entre-deux-guerres/index.html"
+to = "/publications/2014-heros-traditionnels-et-heros-du-progres-chronique-d-une-cohabitation-intermediatique-dans-l-entre-de/"
+
+[[redirects]]
+from = "/actualites/2021/12/21/hamadeh-jawad/index.html"
+to = "/actualites/2021-12-21-hamadeh-jawad/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/les-echelles-de-l-espace-social-au-maghreb-le-quartier-comme-territoire-d-integration-citadine/index.html"
+to = "/actualites/2014-09-09-les-echelles-de-l-espace-social-au-maghreb-le-quartier-comme-territoire-d-integration-citadine/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/nouhaud-nicolas/index.html"
+to = "/actualites/2017-01-12-nouhaud-nicolas/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/humanilt/index.html"
+to = "/actualites/2014-09-09-humanilt/"
+
+[[redirects]]
+from = "/actualites/2019/12/24/lagorce-laurent/index.html"
+to = "/actualites/2019-12-24-lagorce-laurent/"
+
+[[redirects]]
+from = "/actualites/2019/03/19/forthoffer-camille/index.html"
+to = "/actualites/2019-03-19-forthoffer-camille/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/roots-racines-culturelles-emigration/index.html"
+to = "/actualites/2014-09-09-roots-racines-culturelles-emigration/"
+
+[[redirects]]
+from = "/actualites/2019/04/23/motta-ramirez-oscar/index.html"
+to = "/actualites/2019-04-23-motta-ramirez-oscar/"
+
+[[redirects]]
+from = "/actualites/2017/01/12/zoghbi-walid/index.html"
+to = "/actualites/2017-01-12-zoghbi-walid/"
+
+[[redirects]]
+from = "/actualites/2012/06/07/benoit-cordelier/index.html"
+to = "/actualites/2012-06-07-benoit-cordelier/"
+
+[[redirects]]
+from = "/actualites/2012/07/19/caro-stephane/index.html"
+to = "/actualites/2012-07-19-caro-stephane/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/nkuna-wa-nkuna-charles/index.html"
+to = "/actualites/2015-05-29-nkuna-wa-nkuna-charles/"
+
+[[redirects]]
+from = "/actualites/2019/03/12/fabcom/index.html"
+to = "/actualites/2019-03-12-fabcom/"
+
+[[redirects]]
+from = "/actualites/2019/10/15/trouche-dominique/index.html"
+to = "/actualites/2019-10-15-trouche-dominique/"
+
+[[redirects]]
+from = "/actualites/2019/03/31/yao-bini-paul/index.html"
+to = "/actualites/2019-03-31-yao-bini-paul/"
+
+[[redirects]]
+from = "/publications/2016-hachette-entre-heritage-et-renouvellement-1920-1960-comment-faire-collection-face-au-defi-des-albums-transmediatiques/index.html"
+to = "/publications/2016-hachette-entre-heritage-et-renouvellement-1920-1960-comment-faire-collection-face-au-defi-des-albums/"
+
+[[redirects]]
+from = "/fr/actualites/projets-termines/index.html"
+to = "/actualites/projets-termines/"
+
+[[redirects]]
+from = "/fr/vie-du-labo-pour-lannee-en-cours/les-partenaires-du-mica/index.html"
+to = "/vie-du-labo-pour-lannee-en-cours/les-partenaires-du-mica/"
+
+[[redirects]]
+from = "/actualites/2015/05/29/likassa-foutou-renee-bernadette/index.html"
+to = "/actualites/2015-05-29-likassa-foutou-renee-bernadette/"
+
+[[redirects]]
+from = "/actualites/2013/03/20/crubile-marine/index.html"
+to = "/actualites/2013-03-20-crubile-marine/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/le-design-dans-l-art-contemporain/index.html"
+to = "/actualites/2014-09-09-le-design-dans-l-art-contemporain/"
+
+[[redirects]]
+from = "/actualites/2014/09/09/symposium-epistemologie-de-la-transdisciplinarite-dans-les-processus-d-innovation/index.html"
+to = "/actualites/2014-09-09-symposium-epistemologie-de-la-transdisciplinarite-dans-les-processus-d-innovation/"
+
+[[redirects]]
+from = "/actualites/2011/11/20/monseigne-annick/index.html"
+to = "/actualites/2011-11-20-monseigne-annick/"
+
+[[redirects]]
+from = "/actualites/2016/04/20/pascau-julie/index.html"
+to = "/actualites/2016-04-20-pascau-julie/"
+
+[[redirects]]
+from = "/fr/plan-du-site/index.html"
+to = "/plan-du-site/"
+
